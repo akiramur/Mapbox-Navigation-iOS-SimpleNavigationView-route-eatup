@@ -1,0 +1,4 @@
+/* Bundle name */
+"CFBundleName" = "SimpleNavigationView";
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Your location is used to improve the map experience.";
